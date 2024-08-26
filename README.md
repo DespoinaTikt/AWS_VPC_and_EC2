@@ -1,4 +1,4 @@
-# AWS_VPC_Configuration_and_EC2_Launch
+# AWS_VPC_and_EC2
 
 As a part of my AWS re/Start training, I had to build a virtual private cloud (VPC) and other network components required to deploy resources, such as an Amazon Elastic Compute Cloud (Amazon EC2) instance.
 
